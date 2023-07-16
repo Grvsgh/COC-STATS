@@ -1,7 +1,7 @@
 # COC-STATS
 
 
-##Responsive Gaming Website
+## Responsive Gaming Website
 
 This project is a responsive gaming website that showcases information about a game called "GOBLINS". It features a modern and visually appealing design, with a responsive layout that adapts to different screen sizes.
 
@@ -11,7 +11,7 @@ This project is a responsive gaming website that showcases information about a g
 - CSS3
 - JavaScript
 
-Features
+## Features
 Responsive design: The website layout adjusts dynamically to different screen sizes, ensuring optimal viewing experience on desktop, tablet, and mobile devices.
 Navigation menu: The website includes a fixed header with a navigation menu that allows users to navigate to different sections of the website.
 Hero section: The hero section showcases key information about the game, including its popularity, developer, and a captivating description.
@@ -20,7 +20,7 @@ Scroll Reveal effect: The website incorporates the Scroll Reveal library to crea
 
 
 
-Credits
+## Credits
 Boxicons: https://boxicons.com/
 Remixicon: https://remixicon.com/
 ScrollReveal: https://scrollrevealjs.org/
