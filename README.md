@@ -21,6 +21,6 @@ Scroll Reveal effect: The website incorporates the Scroll Reveal library to crea
 
 
 ## Credits
-Boxicons: https://boxicons.com/
-Remixicon: https://remixicon.com/
-ScrollReveal: https://scrollrevealjs.org/
+- Boxicons: https://boxicons.com/
+- Remixicon: https://remixicon.com/
+- ScrollReveal: https://scrollrevealjs.org/
