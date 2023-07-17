@@ -1,4 +1,4 @@
-# COC-STATS
+## COC-STATS
 
 
 ## Responsive Gaming Website
