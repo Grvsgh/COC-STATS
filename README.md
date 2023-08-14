@@ -3,7 +3,7 @@
 
 ## Responsive Gaming Website
 
-This project is a responsive gaming website that showcases information about a game called "GOBLINS". It features a modern and visually appealing design, with a responsive layout that adapts to different screen sizes.
+This project is a responsive gaming website that showcases information about a game called "GOBLINS". It features a modern and visually appealing design, with a responsive layout that adapts to different screen sizes..
 
 ## Technologies Used
 
